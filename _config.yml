@@ -3,7 +3,7 @@ title: YamLee Blog
 header-img: img/home-bg.jpg
 email: liyaninhn@gmail.com
 description: "极致到简单"
-baseurl: ""
+baseurl: "/LeeJekyllBlog"
 url: "http://yamlee.github.io"
 
 # Comment setting
@@ -50,7 +50,7 @@ useGoogleAnalysis: true     # TODO
 sidebar: true
 sidebar-featured-tags: true
 sidebar-about-description: "专注移动开发领域,与code为伍,借音乐常伴"
-sidebar-avatar: /img/avatar-yamlee.jpg     # use absolute URL.
+sidebar-avatar: /LeeJekyllBlog/img/avatar-yamlee.jpg     # use absolute URL.
 
 # Friends
 friends: [
