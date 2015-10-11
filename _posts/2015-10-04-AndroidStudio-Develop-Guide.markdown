@@ -12,8 +12,8 @@ tags:
 ---
 
 
-#AndroidStudio使用指导
->as使用中的一些插件和辅助代码编写的一些建议
+# AndroidStudio使用指导
+> as使用中的一些插件和辅助代码编写的一些建议
 
 ## 插件的使用
 > 常用插件安装及使用
@@ -66,23 +66,23 @@ _windowfocused	`state_window_focused`
 SelectorChapek是一款帮助我们快速完成Selector的AndroidStudio插件
 
 
-##Android Parcelable plugin
+## Android Parcelable plugin
 
 > parcelable code generator 是一款pracelable对象生成工具
 
-##Genymotion
+## Genymotion
 
 > 一款好用的Android虚拟机
 
-##ideaVim
+## ideaVim
 
 >Idea环境下的vim编辑环境
 
-##Key Promoter
+## Key Promoter
 
 >提示快捷键提示的插件
 
-##JiMu Mirror
+## JiMu Mirror
 
 >UI即改即看的一款工具
 
